@@ -1,9 +1,5 @@
 # Forms, Query Strings, and Params
 
-- Notes:
-
-  - Copied from [`forms-query-strings-and-params.md`](https://github.com/firstdraft/appdev-chapters/blob/benp-edits/forms-query-strings-and-params.md){:target="_blank"}
-
 We use forms to collect information from users. Only by submitting this information to our application, and processing it, does our application start to become interesting.
 
 ## A bare bones HTML form
