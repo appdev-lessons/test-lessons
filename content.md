@@ -1,3 +1,3 @@
-# Wow, such a good title
+# Original title
 
 New content
