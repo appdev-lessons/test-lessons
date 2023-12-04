@@ -1,5 +1,4 @@
 # Forms, Query Strings, and Params
-small update
 
 We use forms to collect information from users. Only by submitting this information to our application, and processing it, does our application start to become interesting.
 
