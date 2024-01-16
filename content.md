@@ -4,6 +4,7 @@ We use forms to collect information from users. Only by submitting this informat
 
 
 ![adding-binding-dot-pry.png](/assets/adding-binding-dot-pry.png)
+{: .bleed-full }
 
 
 ## A bare bones HTML form
