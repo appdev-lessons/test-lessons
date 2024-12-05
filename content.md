@@ -1,6 +1,6 @@
 # Forms, Query Strings, and Params
 
-We use forms to collect information from users. Only by submitting this information to our application, and processing it, does our application start to become interesting :3
+We use forms to collect information from users. Only by submitting this information to our application, and processing it, does our application start to become interesting.
 
 
 ## A bare bones HTML form
