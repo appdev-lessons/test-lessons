@@ -1,6 +1,6 @@
 # Forms, Query Strings, and Params
 
-We use forms to collect information from users. Only by submitting this information to our application, and processing it, does our application start to become interesting.
+We use forms to collect information from users. Only by submitting this information to our application, and processing it, does our application start to become interesting :3
 
 
 ## A bare bones HTML form
@@ -175,6 +175,6 @@ There are several reasons we need to write valid forms in our HTML:
 
 <br>
 
-:33
+
 
 ![erm](/assets/Erm_1.png)
