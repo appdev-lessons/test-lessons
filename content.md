@@ -167,6 +167,8 @@ A complete valid form looks like this:
 
 ### Why use valid forms?
 
+![erm](/assets/Erm_1.png)
+
 There are several reasons we need to write valid forms in our HTML:
 - The tests for `rails grade` will fail, since they won't know how to fill out your forms.
 - For users visiting our app from a phone, it's hard to tap on checkboxes. In valids forms, if you click on a label, it checks/unchecks the connected checkbox.
@@ -175,6 +177,3 @@ There are several reasons we need to write valid forms in our HTML:
 
 <br>
 
-
-
-![erm](/assets/Erm_1.png)
